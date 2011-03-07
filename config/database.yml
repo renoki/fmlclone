@@ -25,7 +25,7 @@ test:
   database: fmlclone_test
   pool: 5
   username: root
-  password:
+  password: Ejewilag723%
   socket: /tmp/mysql.sock
 
 production:
